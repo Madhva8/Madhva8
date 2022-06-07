@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Numerical Methods in Computational Physics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email address madhva.fakare@uni-muenster.de
 
 <!---
 Madhva8/Madhva8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
