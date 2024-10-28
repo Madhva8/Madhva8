@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhva8
+- 👋 Hi, I’m @Madhva Fakare
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Numerical Methods in Computational Physics
 - 💞️ I’m looking to collaborate on ...
