@@ -17,11 +17,6 @@ Physics Master's student specializing in **Particle and Nuclear Physics** and **
 * **Specializations:** Numerical Methods in Computational Physics, Data Analysis, Quantum Technologies
 * **Environment:** Linux (Development & HPC), Git
 
-### 📊 Stats & Activity
-![Madhva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhva8&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhva8&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 📫 Contact
