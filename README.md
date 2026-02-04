@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Madhva Fakare
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Numerical Methods in Computational Physics
-- 💞️ I’m looking to collaborate on ...
-- 📫 email address madhva.fakare@uni-muenster.de
+# Madhva Fakare | MSc Physics @ Uni Münster
 
-<!---
-Madhva8/Madhva8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Physics Master's student specializing in **Particle and Nuclear Physics** and **Quantum/Nano Technology**. I focus on high-energy physics analysis, specializing in particle identification within large-scale experimental frameworks.
+
+---
+
+### 🔬 Research & Thesis
+**TRD Electron-Pion Separation Analysis** | *ALICE Experiment, CERN*
+
+* **Project:** Developing efficient PID (Particle Identification) workflows using the **ALICE O2 Framework**.
+* **Focus:** Analyzing Transition Radiation Detector (TRD) data to optimize electron-pion separation.
+* **Methodology:** Implementing data processing tasks in **Modern C++** for Run 3/4 collision data.
+
+### 🛠 Technical Expertise
+* **Programming:** C++ (Modern), Python, Bash
+* **Scientific Frameworks:** ALICE O2, ROOT (CERN), AliPhysics
+* **Specializations:** Numerical Methods in Computational Physics, Data Analysis, Quantum Technologies
+* **Environment:** Linux (Development & HPC), Git
+
+### 📊 Stats & Activity
+![Madhva's Stats](https://github-readme-stats.vercel.app/api?username=Madhva8&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhva8&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Contact
+- 📧 [madhva.fakare@uni-muenster.de](mailto:madhva.fakare@uni-muenster.de)
+- 📍 Münster, Germany
